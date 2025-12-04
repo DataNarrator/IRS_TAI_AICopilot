@@ -1,0 +1,301 @@
+Vendor_ID,Vendor_Name,CAGE_Code,Contract_ID,Award_Date,Fiscal_Year,Region,Place_of_Performance_State,Contract_Type,PSC,NAICS,Small_Business_SetAside,Contract_Value,On_Time_Delivery_Percent,Cost_Overrun_Percent,Vendor_Satisfaction_Score,Performance_Risk_Flag,Vendor_Name_Standardized
+QTWFKK19Y,MaplePark LLC,JL4CT,GS-21-0NRQ6U,10/1/2021,2021,Midwest,UT,Labor-Hour,D301 IT Facility Mgmt,517111,No,1038186.57,79.5,6.9,3.73,Medium,Maplepark LLC
+J6EW0F8I1,Vanguard Ltd,2CSIP,GS-21-3L10HJ,4/17/2022,2021,Mid-Atlantic,TX,Fixed-Price with EPA,D399 IT Services,236220,No,535453.6,90.3,3.4,3.13,Low,Vanguard LTD
+2HPD7E20N,Xenon Ltd,PVJE4,GS-21-4I9W3B,7/22/2022,2021,Mid-Atlantic,PA,Labor-Hour,7030 Info Tech HW,517111,No,175209.92,86.1,1.4,3.35,Low,Xenon LTD
+MN1A4TQLM,Quartz  Inc,JYAWL,GS-21-5FNPJO,4/11/2022,2021,West,UT,Firm-Fixed Price,R499 Prof Services,541512,No,1422363.54,89.3,1.2,3.41,Low,Quartz INC
+IJ3GVGQ8S,EdgeWorks LLC,T8FRF,GS-21-7PVKXV,5/11/2022,2021,Northeast,VA,Cost-Plus,J070 Maintenance,517111,No,2546458.78,69.4,24.3,3.39,High,Edgeworks LLC
+XB74BSOZI,MaplePark Corporation,AUX8P,GS-21-A5TLBP,10/13/2021,2021,Midwest,PA,Time & Materials,D301 IT Facility Mgmt,541519,No,313990.99,73.2,14.4,3,Medium,Maplepark CORP
+ZI49AHV5O,Nexus Systems,GADYZ,GS-21-C2TF6I,4/26/2022,2021,West,MO,Labor-Hour,D399 IT Services,541330,No,132962.87,77.2,3.9,2.98,Medium,Nexus Systems
+RXR7RW4CI,INSIGHT  LTD,QY1IB,GS-21-D2IQIH,10/8/2021,2021,Southeast,GA,Fixed-Price with EPA,J070 Maintenance,541511,No,263330.14,87.1,3.8,3.32,Low,Insight LTD
+U6A69TVTF,Riverton Corporation,73SLA,GS-21-GT7HTS,4/15/2022,2021,West,VA,Time & Materials,D399 IT Services,541511,No,342793.39,68.1,11.7,2.77,High,Riverton CORP
+YY8BJJ2HO,DataBridge Corp,FLJKW,GS-21-H65N88,11/27/2021,2021,West,PA,Fixed-Price with EPA,R499 Prof Services,236220,No,1010808.19,85.6,0,3.2,Low,Databridge CORP
+5A9RA69DX,BlueSky Corporation,9HROT,GS-21-HB8XPE,6/5/2022,2021,Mid-Atlantic,CA,Time & Materials,7030 Info Tech HW,541512,Yes,400311.61,61.1,12.3,2.89,High,Bluesky CORP
+AZ3N2G6AS,Trident Incorporated,L1Q6L,GS-21-HTZU58,3/10/2022,2021,Mid-Atlantic,GA,Labor-Hour,Y1DA Construction,541330,Yes,797871.2,82.5,4.9,3.58,Low,Trident INC
+RYLATX7EM,DataBridge Corp,F2HSA,GS-21-JC4PY7,6/19/2022,2021,Southwest,NY,Time & Materials,D301 IT Facility Mgmt,541611,No,634718.63,73.6,17.1,2.91,Medium,Databridge CORP
+DCCEIGKHY,Pinnacle LLC,55V0N,GS-21-KUAOPV,11/29/2021,2021,Southwest,CA,Labor-Hour,D399 IT Services,541611,No,578685.29,88,14.2,3.3,Low,Pinnacle LLC
+XRGA9UCOB,Kingsley Inc,19DBB,GS-21-L3M4LG,2/18/2022,2021,Southeast,UT,Fixed-Price with EPA,D399 IT Services,236220,Yes,713255.58,84.9,16.6,3.54,Medium,Kingsley INC
+HNLZRG5GH,Evergreen Ltd,TL9XU,GS-21-LX06ZE,3/15/2022,2021,Southwest,VA,Cost-Plus,Y1DA Construction,541611,Yes,1190645.65,84.4,19.9,3.61,Medium,Evergreen LTD
+RS5TIAB4X,ClearPath Systems,B54CJ,GS-21-MA5EAS,4/1/2022,2021,Southeast,NY,Fixed-Price with EPA,R499 Prof Services,541611,No,1872603.46,87.2,0,2.99,Low,Clearpath Systems
+L8Q660HBX,Titan Corporation,TS5W6,GS-21-N3CIIS,11/28/2021,2021,Mid-Atlantic,CA,Firm-Fixed Price,Y1DA Construction,541519,No,280928.18,96.4,0,3.59,Low,Titan CORP
+3CI14WFLT,Riverton LLC,PR69P,GS-21-NDRQC5,9/6/2022,2021,Midwest,MO,Firm-Fixed Price,R499 Prof Services,517111,No,666426.14,82.2,10.1,3.3,Low,Riverton LLC
+BY8KXB4N9,Questline Corporation,LMEEW,GS-21-OU54UA,10/2/2021,2021,West,TX,Labor-Hour,7030 Info Tech HW,541511,No,604115.7,81.7,0,3.48,Medium,Questline CORP
+WPGBTCLGV,DataBridge Incorporated,Z6TM2,GS-21-PLLZVS,8/10/2022,2021,West,UT,Firm-Fixed Price,D301 IT Facility Mgmt,517111,Yes,542809.41,78.1,1.4,3.28,Medium,Databridge INC
+L4YLJPZJ7,Oakridge Corporation,VBFV3,GS-21-QE8FTH,6/7/2022,2021,Southwest,IL,Cost-Plus,J070 Maintenance,541330,No,2320835.42,54,22.8,3.06,High,Oakridge CORP
+6PSDTQX1E,NorthStar Group,UG0O0,GS-21-WFXDTU,3/27/2022,2021,Northeast,MO,Firm-Fixed Price,J070 Maintenance,517111,No,307846.83,89.6,2.8,3.48,Low,Northstar Group
+VUE3FKSGS,DataBridge Corporation,W6C1V,GS-21-X2XOQG,12/9/2021,2021,West,MO,Cost-Plus,D301 IT Facility Mgmt,541512,Yes,1463147.89,70.8,16.9,3.05,Medium,Databridge CORP
+XB74BSOZI,MaplePark Corporation,AUX8P,GS-21-XBNMY7,2/26/2022,2021,Midwest,UT,Fixed-Price with EPA,D301 IT Facility Mgmt,541512,Yes,240895.75,84.6,4.9,2.57,Low,Maplepark CORP
+RXR7RW4CI,Insight Ltd,QY1IB,GS-21-YP7988,12/8/2021,2021,West,MD,Fixed-Price with EPA,D399 IT Services,541512,Yes,256000.03,87.7,4.6,3.64,Low,Insight LTD
+VU7MZN3VV,Harbor Incorporated,6YT7W,GS-21-ZFC4CY,12/1/2021,2021,West,GA,Time & Materials,R499 Prof Services,541519,No,392335.65,91.1,11.9,3.84,Low,Harbor INC
+EWI4VJEIF,VECTOR LTD,XZWDJ,GS-21-ZZ9DD4,12/13/2021,2021,Mid-Atlantic,CA,Firm-Fixed Price,R499 Prof Services,236220,No,253416.73,76.3,9.1,3.11,Medium,Vector LTD
+DCCEIGKHY,Pinnacle LLC,55V0N,GS-22-29VNR4,6/14/2023,2022,West,MO,Cost-Plus,D301 IT Facility Mgmt,518210,No,2140310.45,63.2,40.4,3.14,High,Pinnacle LLC
+OO6EFJU9W,UrbanCore Ltd,HVKET,GS-22-2N10TC,4/27/2023,2022,Northeast,MO,Cost-Plus,7030 Info Tech HW,541611,No,2302792.68,56.3,26.6,2.4,High,Urbancore LTD
+U6A69TVTF,RIVERTON CORPORATION,73SLA,GS-22-3NXSSX,1/26/2023,2022,Mid-Atlantic,PA,Cost-Plus,D301 IT Facility Mgmt,236220,No,2337598.06,54.7,28.8,2.5,High,Riverton Corporation
+HNLZRG5GH,Evergreen Ltd,TL9XU,GS-22-3QZ6BM,8/31/2023,2022,Southeast,NY,Cost-Plus,D399 IT Services,541611,Yes,3969512.37,62.1,32.1,3.04,High,Evergreen LTD
+YHHFPU1JA,Lumina Group,UHFGY,GS-22-3TNE58,3/29/2023,2022,Southwest,CA,Time & Materials,D399 IT Services,541511,No,382955.1,78.5,7.3,3.65,Medium,Lumina Group
+6PSDTQX1E,NORTHSTAR GROUP,UG0O0,GS-22-5CNDBW,6/9/2023,2022,West,PA,Labor-Hour,J070 Maintenance,517111,Yes,265581.57,86.6,0,3.51,Low,Northstar Group
+6PSDTQX1E,NorthStar Group,UG0O0,GS-22-5N18BC,1/22/2023,2022,Southeast,GA,Labor-Hour,R499 Prof Services,541511,Yes,209835.74,87.6,8.7,3.67,Low,Northstar Group
+OE129G5XP,ClearPath Incorporated,6ELEP,GS-22-5O7DBW,6/26/2023,2022,Northeast,MO,Time & Materials,J070 Maintenance,236220,No,50168.08,70.3,11.7,2.81,Medium,Clearpath INC
+4AV3V81IJ,Oakridge LLC,JXXUP,GS-22-8197J8,6/3/2023,2022,Mid-Atlantic,PA,Labor-Hour,D399 IT Services,541330,Yes,495547.48,86.7,5.2,3.21,Low,Oakridge LLC
+YHHFPU1JA,Lumina Group,UHFGY,GS-22-AXW3VG,11/18/2022,2022,Southeast,VA,Firm-Fixed Price,D399 IT Services,236220,Yes,278934.24,75.8,1.2,3.13,Medium,Lumina Group
+BM2ZEIO7O,ForgeTech Systems,T9OTG,GS-22-B5LS6J,5/25/2023,2022,Northeast,CA,Labor-Hour,R499 Prof Services,541519,No,1130050.26,94,12.8,3.65,Low,Forgetech Systems
+RELFNCVUM,Greenfield Group,LPKY5,GS-22-CKQ5XP,3/12/2023,2022,Mid-Atlantic,MD,Time & Materials,R499 Prof Services,517111,Yes,266336.36,70.1,11.9,3.13,Medium,Greenfield Group
+5999ZMWZT,Keystone Corp,OF9F0,GS-22-FJBL2D,9/14/2023,2022,Northeast,CA,Fixed-Price with EPA,Y1DA Construction,517111,Yes,1827428.09,83.8,3.1,3.69,Low,Keystone CORP
+E8H70VTYK,Monarch Group,D3MTT,GS-22-H26O79,5/2/2023,2022,Southwest,UT,Labor-Hour,R499 Prof Services,541330,Yes,127620.07,90.2,0.7,3.17,Low,Monarch Group
+VUE3FKSGS,DataBridge Corporation,W6C1V,GS-22-K5W4RN,3/7/2023,2022,Mid-Atlantic,GA,Firm-Fixed Price,D301 IT Facility Mgmt,236220,Yes,445726.67,72.8,9,2.87,Medium,Databridge CORP
+2HPD7E20N,XENON LTD,PVJE4,GS-22-K8R2XG,11/1/2022,2022,Southwest,TX,Time & Materials,Y1DA Construction,236220,No,1089855.78,85.9,17,3.29,Medium,Xenon LTD
+ELETDH6GP,Harbor LLC,BIRMA,GS-22-LGCGS9,12/20/2022,2022,Southeast,CA,Labor-Hour,D399 IT Services,541330,No,170284.18,83.3,4.7,3.45,Low,Harbor LLC
+E8H70VTYK,Monarch Group,D3MTT,GS-22-LH72JK,11/19/2022,2022,West,MD,Cost-Plus,Y1DA Construction,541330,No,1081359.76,78.1,20.5,2.88,Medium,Monarch Group
+S2UNY8VEP,Summit Corporation,PI2YQ,GS-22-OB3FAI,10/29/2022,2022,Southeast,VA,Time & Materials,Y1DA Construction,541330,Yes,776334.52,72.3,15.5,3.42,Medium,Summit CORP
+WPGBTCLGV,DATABRIDGE INCORPORATED,Z6TM2,GS-22-OJPK16,12/15/2022,2022,Northeast,TX,Labor-Hour,Y1DA Construction,541511,Yes,917751.91,91.2,4.5,3.32,Low,Databridge Incorporated
+RYLATX7EM,DataBridge Corp,F2HSA,GS-22-T7J9EX,3/6/2023,2022,Southeast,PA,Labor-Hour,Y1DA Construction,518210,Yes,273745.87,99,8.1,3.74,Low,Databridge CORP
+RXR7RW4CI,Insight Ltd,QY1IB,GS-22-V0CDVR,8/13/2023,2022,Southwest,UT,Firm-Fixed Price,7030 Info Tech HW,541611,No,927793.25,86.5,11.8,3.16,Low,Insight LTD
+L4YLJPZJ7,Oakridge Corporation,VBFV3,GS-22-VJZVGZ,5/10/2023,2022,Midwest,IL,Firm-Fixed Price,J070 Maintenance,517111,Yes,907886.1,83.1,9,2.96,Low,Oakridge CORP
+RXR7RW4CI,Insight Ltd,QY1IB,GS-22-XBHRN0,6/24/2023,2022,Southwest,MD,Fixed-Price with EPA,J070 Maintenance,236220,Yes,448204.53,81.7,5.3,3.43,Medium,Insight LTD
+RS5TIAB4X,ClearPath Systems,B54CJ,GS-22-XQYOPE,7/6/2023,2022,Midwest,NY,Time & Materials,D301 IT Facility Mgmt,236220,Yes,142777.47,60.8,14.6,2.93,High,Clearpath Systems
+PUSITIJHQ,MaplePark Systems,7XOGZ,GS-22-YWGU29,7/27/2023,2022,West,MD,Cost-Plus,J070 Maintenance,541512,No,980964.37,85.3,19.7,3.59,Medium,Maplepark Systems
+VU7MZN3VV,Harbor Incorporated,6YT7W,GS-23-0OJB8T,9/3/2024,2023,Mid-Atlantic,MO,Fixed-Price with EPA,Y1DA Construction,541512,Yes,1416889.38,86.2,1.6,3.41,Low,Harbor INC
+C3G3E1689,Evergreen Ltd,PH54F,GS-23-13QV3M,9/15/2024,2023,Midwest,UT,Firm-Fixed Price,D301 IT Facility Mgmt,541611,No,252232.03,77.5,0,3.64,Medium,Evergreen LTD
+XXN79PBKC,Evergreen Corporation,8T1RL,GS-23-14NZOK,1/29/2024,2023,Southwest,GA,Firm-Fixed Price,D399 IT Services,541512,Yes,525789.19,84,6.1,2.9,Low,Evergreen CORP
+NWHB6E5KA,IronGate Incorporated,6EH5J,GS-23-2ZH3L5,2/22/2024,2023,Southeast,MD,Labor-Hour,Y1DA Construction,517111,No,451463.83,76.1,5.5,3.12,Medium,Irongate INC
+HNLZRG5GH,Evergreen Ltd,TL9XU,GS-23-3AM16U,12/22/2023,2023,Midwest,VA,Fixed-Price with EPA,R499 Prof Services,541511,No,667684.53,83,6.9,3.17,Low,Evergreen LTD
+6PSDTQX1E,NorthStar Group,UG0O0,GS-23-6V984G,6/10/2024,2023,Southwest,VA,Fixed-Price with EPA,J070 Maintenance,541519,No,1303042.44,87.8,7.6,3.18,Low,Northstar Group
+S2UNY8VEP,Summit Corporation,PI2YQ,GS-23-7Y10R0,3/21/2024,2023,Northeast,GA,Fixed-Price with EPA,D301 IT Facility Mgmt,236220,No,2545344.25,72.9,29.8,3,High,Summit CORP
+D1TL6QNFE,Silverline Ltd,L1IJG,GS-23-BA8I7H,4/16/2024,2023,Northeast,VA,Labor-Hour,J070 Maintenance,517111,No,27549.51,86.8,0,3.42,Low,Silverline LTD
+XXN79PBKC,EVERGREEN CORPORATION,8T1RL,GS-23-D9XZVD,9/17/2024,2023,West,IL,Cost-Plus,D301 IT Facility Mgmt,518210,No,624623.49,66.9,15.6,3.14,High,Evergreen Corporation
+5A9RA69DX,BlueSky Corporation,9HROT,GS-23-IMROFS,9/6/2024,2023,West,MD,Firm-Fixed Price,J070 Maintenance,541519,No,408998.23,81.3,8.7,2.77,Medium,Bluesky CORP
+RXR7RW4CI,Insight Ltd,QY1IB,GS-23-N0POFN,7/22/2024,2023,West,GA,Labor-Hour,Y1DA Construction,541519,Yes,143486.41,90.5,2,3.35,Low,Insight LTD
+QTWFKK19Y,Maplepark  Llc,JL4CT,GS-23-NV8J9R,11/14/2023,2023,Mid-Atlantic,IL,Fixed-Price with EPA,Y1DA Construction,541330,No,1173408.41,89.7,0,3.58,Low,Maplepark LLC
+JS7HVHVFX,Yardley Inc,0WVKZ,GS-23-OKNUSN,10/27/2023,2023,Midwest,CA,Firm-Fixed Price,D399 IT Services,541611,No,285180.72,80.3,8.8,3.77,Medium,Yardley INC
+ZI49AHV5O,Nexus Systems,GADYZ,GS-23-PS9M6E,7/30/2024,2023,Southeast,GA,Fixed-Price with EPA,7030 Info Tech HW,541519,No,430692.47,78.1,5.2,3.64,Medium,Nexus Systems
+S2UNY8VEP,Summit  Corporation,PI2YQ,GS-23-R2NRHW,8/29/2024,2023,Southeast,MD,Fixed-Price with EPA,D301 IT Facility Mgmt,236220,Yes,564015.48,82,17,3.97,Medium,Summit CORP
+Q13SFNDPM,Umbra Ltd,V3Y7U,GS-23-U0SOLZ,8/1/2024,2023,Midwest,MO,Time & Materials,Y1DA Construction,541611,No,649349.17,80.5,9.9,2.97,Medium,Umbra LTD
+XV144MTVF,Yellowfin Group,KLMUX,GS-23-VJB5AS,9/3/2024,2023,Midwest,VA,Time & Materials,7030 Info Tech HW,236220,No,424360.11,76.9,15.3,3.24,Medium,Yellowfin Group
+EWI4VJEIF,VECTOR LTD,XZWDJ,GS-23-ZB1C77,6/12/2024,2023,Southwest,IL,Cost-Plus,7030 Info Tech HW,541519,No,2192416.78,57.8,13.8,2.9,High,Vector LTD
+YY8BJJ2HO,DataBridge Corp,FLJKW,GS-23-ZUL433,5/15/2024,2023,Southwest,IL,Cost-Plus,Y1DA Construction,518210,No,1219317.72,79.6,16.3,2.93,Medium,Databridge CORP
+ECFAHR6VF,PRIMESOURCE  LLC,THXTY,TIRHQ-21-19682F,12/28/2021,2021,Mid-Atlantic,MD,Fixed-Price with EPA,Y1DA Construction,541330,Yes,356493.32,90.1,0,3.8,Low,Primesource LLC
+VUE3FKSGS,DataBridge Corporation,W6C1V,TIRHQ-21-46GMFD,1/20/2022,2021,Midwest,VA,Cost-Plus,Y1DA Construction,541611,No,1188863.02,77.8,15.2,3.06,Medium,Databridge CORP
+33OMBD4K3,UrbanCore Inc,67PT6,TIRHQ-21-4PO7JH,4/20/2022,2021,Northeast,MO,Labor-Hour,D301 IT Facility Mgmt,541611,No,125246.25,78.9,1.9,3.4,Medium,Urbancore INC
+PUSITIJHQ,MaplePark Systems,7XOGZ,TIRHQ-21-5WSS6T,1/23/2022,2021,Northeast,IL,Labor-Hour,R499 Prof Services,517111,No,193129.1,89.5,0,3.5,Low,Maplepark Systems
+2HPD7E20N,Xenon Ltd,PVJE4,TIRHQ-21-6OZ7DS,5/25/2022,2021,Northeast,UT,Fixed-Price with EPA,R499 Prof Services,236220,Yes,461619.68,89.9,4,3.18,Low,Xenon LTD
+2HPD7E20N,Xenon Ltd,PVJE4,TIRHQ-21-AGDW7U,4/28/2022,2021,Mid-Atlantic,MO,Cost-Plus,D301 IT Facility Mgmt,541611,Yes,1967559.52,77.7,17.2,3.42,Medium,Xenon LTD
+ELETDH6GP,HARBOR LLC,BIRMA,TIRHQ-21-AWX9CP,12/25/2021,2021,Mid-Atlantic,CA,Time & Materials,R499 Prof Services,541512,No,116954.19,70.3,13.7,3.21,Medium,Harbor LLC
+6PSDTQX1E,NorthStar Group,UG0O0,TIRHQ-21-BSPR1G,1/29/2022,2021,Northeast,MO,Fixed-Price with EPA,J070 Maintenance,541511,Yes,384176.64,87.6,0,3.46,Low,Northstar Group
+0WAH7DWFR,ZIRCON INC,6HWBW,TIRHQ-21-C1JJX5,3/23/2022,2021,Mid-Atlantic,NY,Time & Materials,D301 IT Facility Mgmt,541330,No,173401.18,73,17.4,2.81,Medium,Zircon INC
+RXR7RW4CI,Insight Ltd,QY1IB,TIRHQ-21-C3SJ6A,1/27/2022,2021,Southwest,MO,Cost-Plus,D399 IT Services,541512,No,3783996.36,51.3,30.3,2.77,High,Insight LTD
+RS5TIAB4X,ClearPath Systems,B54CJ,TIRHQ-21-C4WZ51,6/7/2022,2021,Southeast,PA,Time & Materials,R499 Prof Services,541511,No,260463.35,78.7,18.2,3.18,Medium,Clearpath Systems
+02ZJ2G49Y,Falcon Corporation,91JC5,TIRHQ-21-EWC0S1,8/12/2022,2021,Mid-Atlantic,IL,Time & Materials,7030 Info Tech HW,517111,No,616449.09,70.4,20.6,3.11,Medium,Falcon CORP
+YY8BJJ2HO,DataBridge Corp,FLJKW,TIRHQ-21-FQV832,4/21/2022,2021,Midwest,UT,Time & Materials,D399 IT Services,541330,Yes,190302.47,64.1,9.6,2.97,High,Databridge CORP
+JS7HVHVFX,Yardley Inc,0WVKZ,TIRHQ-21-FQV95P,3/20/2022,2021,West,UT,Cost-Plus,J070 Maintenance,541611,Yes,1639654.12,86.8,15.4,3.29,Medium,Yardley INC
+MN1A4TQLM,Quartz Inc,JYAWL,TIRHQ-21-IAI5T5,12/27/2021,2021,Southwest,MO,Fixed-Price with EPA,D399 IT Services,541611,No,953173.69,75.7,15,3.09,Medium,Quartz INC
+XXN79PBKC,EVERGREEN  CORPORATION,8T1RL,TIRHQ-21-JYI3UP,7/24/2022,2021,Northeast,MD,Firm-Fixed Price,Y1DA Construction,541330,Yes,199607.49,84.6,2.1,3.24,Low,Evergreen Corporation
+ECFAHR6VF,PrimeSource LLC,THXTY,TIRHQ-21-KTVKQJ,4/13/2022,2021,Southwest,GA,Firm-Fixed Price,Y1DA Construction,518210,No,107904.65,98.9,0,3.55,Low,Primesource LLC
+MNOPWYZAS,Beacon Inc,ODCCZ,TIRHQ-21-LQUW4E,11/25/2021,2021,Southeast,NY,Cost-Plus,D301 IT Facility Mgmt,517111,No,860521.59,79.8,15.7,3.27,Medium,Beacon INC
+H0EQG80L2,Kingsley Corporation,3F7L0,TIRHQ-21-NTMR3N,8/7/2022,2021,Southeast,TX,Cost-Plus,J070 Maintenance,518210,Yes,972612.43,74.6,15.5,3.18,Medium,Kingsley CORP
+IJ3GVGQ8S,EdgeWorks LLC,T8FRF,TIRHQ-21-QTLRIL,8/14/2022,2021,Southwest,TX,Cost-Plus,D301 IT Facility Mgmt,541512,No,856537.26,75.5,22,3.13,Medium,Edgeworks LLC
+MNOPWYZAS,Beacon Inc,ODCCZ,TIRHQ-21-QUZKZ7,5/17/2022,2021,Midwest,UT,Fixed-Price with EPA,D399 IT Services,517111,Yes,876488.24,84.4,2.5,3.3,Low,Beacon INC
+4AV3V81IJ,Oakridge LLC,JXXUP,TIRHQ-21-R871FK,1/9/2022,2021,Northeast,MD,Cost-Plus,Y1DA Construction,236220,No,1799093.96,77.4,17.9,3.37,Medium,Oakridge LLC
+ZCW8W5YFV,Westward Corporation,OFQ8A,TIRHQ-21-RQXXXN,1/7/2022,2021,Northeast,IL,Cost-Plus,R499 Prof Services,541512,Yes,279766.72,80.3,12.6,3.35,Medium,Westward CORP
+2HPD7E20N,Xenon Ltd,PVJE4,TIRHQ-21-SDBMXZ,11/30/2021,2021,Southeast,NY,Firm-Fixed Price,D301 IT Facility Mgmt,541511,Yes,757968.56,79.6,2.2,3.83,Medium,Xenon LTD
+VU7MZN3VV,Harbor Incorporated,6YT7W,TIRHQ-21-T1EXKG,5/31/2022,2021,West,VA,Fixed-Price with EPA,D399 IT Services,541512,Yes,883046.56,71.9,7.1,3.36,Medium,Harbor INC
+E8H70VTYK,Monarch Group,D3MTT,TIRHQ-21-W2YTU9,8/7/2022,2021,Northeast,GA,Cost-Plus,D301 IT Facility Mgmt,541512,Yes,1354538.7,74.7,17.1,3.3,Medium,Monarch Group
+ZCW8W5YFV,Westward Corporation,OFQ8A,TIRHQ-21-W7WLC1,3/30/2022,2021,West,VA,Time & Materials,7030 Info Tech HW,541330,Yes,266084.98,77.8,27.5,3.6,High,Westward CORP
+WPGBTCLGV,DATABRIDGE INCORPORATED,Z6TM2,TIRHQ-21-YYI7G5,10/3/2021,2021,Mid-Atlantic,TX,Time & Materials,D301 IT Facility Mgmt,517111,Yes,162226.38,68.6,17.7,3.04,High,Databridge Incorporated
+VUE3FKSGS,DataBridge Corporation,W6C1V,TIRHQ-21-Z2669S,5/11/2022,2021,Northeast,GA,Labor-Hour,Y1DA Construction,541519,Yes,374102.42,86.7,0.3,3.12,Low,Databridge CORP
+NWHB6E5KA,IronGate Incorporated,6EH5J,TIRHQ-22-0YVCC3,6/21/2023,2022,Mid-Atlantic,CA,Cost-Plus,R499 Prof Services,541519,No,1591363.23,64.3,13.2,2.92,High,Irongate INC
+5A9RA69DX,Bluesky Corporation,9HROT,TIRHQ-22-1JOVMP,11/21/2022,2022,Northeast,GA,Fixed-Price with EPA,7030 Info Tech HW,541611,No,1333134.67,83.1,5.2,3.18,Low,Bluesky CORP
+BY8KXB4N9,Questline Corporation,LMEEW,TIRHQ-22-1XGBWU,12/14/2022,2022,Southeast,CA,Cost-Plus,J070 Maintenance,541512,No,1419787.58,69.1,13.5,2.43,High,Questline CORP
+JF2RPF8W0,Zircon Corp,XQ25K,TIRHQ-22-268S23,6/4/2023,2022,Southeast,GA,Fixed-Price with EPA,D301 IT Facility Mgmt,541611,Yes,540108.7,85.7,8.3,3.06,Low,Zircon CORP
+0WAH7DWFR,Zircon Inc,6HWBW,TIRHQ-22-2R05OS,10/26/2022,2022,Southwest,PA,Firm-Fixed Price,Y1DA Construction,541511,No,1391044.48,88.6,1.8,3.31,Low,Zircon INC
+33OMBD4K3,Urbancore Inc,67PT6,TIRHQ-22-6DB58B,3/29/2023,2022,Midwest,PA,Fixed-Price with EPA,J070 Maintenance,541512,No,1373143.52,96.6,0,2.87,Low,Urbancore INC
+O3Q3M64WV,PrimeSource Inc,DAAC5,TIRHQ-22-759YCX,8/17/2023,2022,Mid-Atlantic,UT,Firm-Fixed Price,7030 Info Tech HW,518210,No,464109.28,78.8,12.2,3.75,Medium,Primesource INC
+BY8KXB4N9,Questline Corporation,LMEEW,TIRHQ-22-8BWZ1V,10/15/2022,2022,Midwest,IL,Time & Materials,J070 Maintenance,541330,Yes,129760.45,83.5,15.4,3.14,Medium,Questline CORP
+EIB2P89AC,Juniper Systems,CWSG2,TIRHQ-22-8CNXFT,8/26/2023,2022,Midwest,VA,Cost-Plus,J070 Maintenance,541512,No,639783.63,77,11.6,3.01,Medium,Juniper Systems
+IJ3GVGQ8S,EdgeWorks LLC,T8FRF,TIRHQ-22-AQ8DDQ,12/16/2022,2022,Midwest,UT,Fixed-Price with EPA,D301 IT Facility Mgmt,541512,Yes,517348.36,75.6,5.8,3.28,Medium,Edgeworks LLC
+ELETDH6GP,Harbor LLC,BIRMA,TIRHQ-22-DY8RW5,9/11/2023,2022,Southwest,GA,Labor-Hour,J070 Maintenance,541611,Yes,591043.05,79.4,6,3.2,Medium,Harbor LLC
+D1TL6QNFE,Silverline Ltd,L1IJG,TIRHQ-22-E5T1X1,10/9/2022,2022,Midwest,CA,Fixed-Price with EPA,R499 Prof Services,541611,Yes,646336.98,77.3,4,3.34,Medium,Silverline LTD
+YHHFPU1JA,Lumina Group,UHFGY,TIRHQ-22-ETB20T,8/28/2023,2022,Midwest,TX,Labor-Hour,R499 Prof Services,518210,No,284374.74,85.2,3.4,3.06,Low,Lumina Group
+UXHJWWXM1,Zircon Corporation,08VTZ,TIRHQ-22-FOGUMC,2/5/2023,2022,Southeast,NY,Fixed-Price with EPA,R499 Prof Services,236220,No,763502.88,87.6,0,3.5,Low,Zircon CORP
+5999ZMWZT,Keystone Corp,OF9F0,TIRHQ-22-G25IM8,3/4/2023,2022,West,VA,Cost-Plus,Y1DA Construction,236220,No,1097724.47,69.7,8.6,2.79,High,Keystone CORP
+UXHJWWXM1,Zircon Corporation,08VTZ,TIRHQ-22-JUL893,9/11/2023,2022,Northeast,GA,Fixed-Price with EPA,D399 IT Services,541519,No,1088410.5,82.9,6.9,2.95,Low,Zircon CORP
+JYVKQPPJM,Harbor Corporation,ZUDNC,TIRHQ-22-KTX8F1,12/19/2022,2022,Mid-Atlantic,IL,Time & Materials,7030 Info Tech HW,236220,Yes,574249.98,69.8,13.9,3.6,High,Harbor CORP
+J6EW0F8I1,Vanguard Ltd,2CSIP,TIRHQ-22-MFDZ9Q,9/25/2023,2022,Southwest,UT,Time & Materials,D399 IT Services,541511,Yes,252387.69,74.1,12.9,3.3,Medium,Vanguard LTD
+JF2RPF8W0,Zircon Corp,XQ25K,TIRHQ-22-NLVN6K,5/21/2023,2022,Northeast,VA,Time & Materials,Y1DA Construction,541519,No,382506.04,70.8,14.5,2.94,Medium,Zircon CORP
+U6A69TVTF,Riverton Corporation,73SLA,TIRHQ-22-NPMEPS,7/11/2023,2022,Midwest,MO,Firm-Fixed Price,J070 Maintenance,541512,No,154835.11,96.1,12.6,3.61,Low,Riverton CORP
+VUE3FKSGS,DATABRIDGE CORPORATION,W6C1V,TIRHQ-22-R7CBCJ,4/26/2023,2022,Mid-Atlantic,CA,Firm-Fixed Price,7030 Info Tech HW,541611,No,590040.38,78,0,3.31,Medium,Databridge Corporation
+RYLATX7EM,DataBridge Corp,F2HSA,TIRHQ-22-UQGJWX,3/26/2023,2022,Midwest,CA,Firm-Fixed Price,R499 Prof Services,541511,Yes,614428.72,86.5,9.6,3.75,Low,Databridge CORP
+36RYXL9LT,Zircon Inc,78K62,TIRHQ-22-XFCBLS,8/11/2023,2022,Midwest,TX,Fixed-Price with EPA,R499 Prof Services,541511,No,897390.69,93.4,0,3.02,Low,Zircon INC
+O3Q3M64WV,PrimeSource Inc,DAAC5,TIRHQ-23-10MY8K,9/19/2024,2023,Southeast,MD,Labor-Hour,Y1DA Construction,541519,No,141821.98,87.9,0,3.28,Low,Primesource INC
+0WAH7DWFR,Zircon Inc,6HWBW,TIRHQ-23-3FDVOH,7/6/2024,2023,Mid-Atlantic,NY,Cost-Plus,D301 IT Facility Mgmt,541611,No,1772734.56,71.7,12.5,2.61,Medium,Zircon INC
+OE129G5XP,ClearPath Incorporated,6ELEP,TIRHQ-23-6SL8NL,4/7/2024,2023,Midwest,PA,Fixed-Price with EPA,Y1DA Construction,541519,No,900481.57,99,0,3.55,Low,Clearpath INC
+A106MSL89,UrbanCore Corp,F0QPW,TIRHQ-23-8G57E9,4/10/2024,2023,Northeast,MD,Labor-Hour,7030 Info Tech HW,517111,No,537037.6,79.5,6.9,3.35,Medium,Urbancore CORP
+DCCEIGKHY,Pinnacle LLC,55V0N,TIRHQ-23-95GQ46,11/27/2023,2023,Southeast,IL,Fixed-Price with EPA,D301 IT Facility Mgmt,541512,Yes,551019.09,92.2,9.9,3.48,Low,Pinnacle LLC
+33OMBD4K3,UrbanCore Inc,67PT6,TIRHQ-23-9CKK64,4/26/2024,2023,Mid-Atlantic,MD,Firm-Fixed Price,7030 Info Tech HW,541519,Yes,170919.8,77.5,7.1,3.02,Medium,Urbancore INC
+36RYXL9LT,Zircon Inc,78K62,TIRHQ-23-B9X4EE,1/25/2024,2023,Northeast,MD,Time & Materials,J070 Maintenance,541330,No,1311481.16,83.4,13.1,3.14,Low,Zircon INC
+L4YLJPZJ7,Oakridge Corporation,VBFV3,TIRHQ-23-DBMPBZ,3/14/2024,2023,Southwest,VA,Labor-Hour,Y1DA Construction,517111,No,288150.98,92.6,0,3.32,Low,Oakridge CORP
+L8Q660HBX,TITAN CORPORATION,TS5W6,TIRHQ-23-DLV6VK,8/31/2024,2023,West,GA,Time & Materials,7030 Info Tech HW,541330,Yes,1350752.19,70.2,20.3,3.09,Medium,Titan Corporation
+WPGBTCLGV,DATABRIDGE INCORPORATED,Z6TM2,TIRHQ-23-E47M2F,2/15/2024,2023,Mid-Atlantic,IL,Fixed-Price with EPA,D301 IT Facility Mgmt,541519,No,324873.95,83.6,11.2,3.33,Low,Databridge Incorporated
+O3Q3M64WV,PrimeSource Inc,DAAC5,TIRHQ-23-EBR1BR,6/17/2024,2023,Southeast,GA,Fixed-Price with EPA,D301 IT Facility Mgmt,518210,No,839402.81,76.6,10,3.02,Medium,Primesource INC
+YHHFPU1JA,Lumina Group,UHFGY,TIRHQ-23-FPSSEF,6/23/2024,2023,Southwest,PA,Cost-Plus,Y1DA Construction,541511,No,717905.43,78.3,18.2,3.2,Medium,Lumina Group
+ZCW8W5YFV,Westward Corporation,OFQ8A,TIRHQ-23-HKVC4X,5/21/2024,2023,Midwest,UT,Labor-Hour,D301 IT Facility Mgmt,541519,No,103276.78,88.5,7.4,3.46,Low,Westward CORP
+2TN9QJ3U3,Cypress Inc,LQ2QY,TIRHQ-23-IJ3ALW,4/17/2024,2023,Southeast,MO,Fixed-Price with EPA,D399 IT Services,518210,No,3564871.69,63.3,24.1,2.8,High,Cypress INC
+6PSDTQX1E,NorthStar Group,UG0O0,TIRHQ-23-K8B6BP,5/27/2024,2023,West,GA,Time & Materials,D301 IT Facility Mgmt,518210,No,877056.23,75.5,18.9,3.15,Medium,Northstar Group
+JF2RPF8W0,Zircon Corp,XQ25K,TIRHQ-23-NE4OQW,1/8/2024,2023,Midwest,PA,Fixed-Price with EPA,D301 IT Facility Mgmt,541519,Yes,727901.94,88.2,6.2,3.67,Low,Zircon CORP
+XRGA9UCOB,Kingsley Inc,19DBB,TIRHQ-23-QSJ020,4/19/2024,2023,Mid-Atlantic,NY,Cost-Plus,D301 IT Facility Mgmt,541330,No,1253091.77,67.6,15.7,2.81,High,Kingsley INC
+VUE3FKSGS,DataBridge Corporation,W6C1V,TIRHQ-23-SCE18N,8/6/2024,2023,Mid-Atlantic,MO,Firm-Fixed Price,D301 IT Facility Mgmt,541611,No,306430.73,91.8,3,3.61,Low,Databridge CORP
+O3Q3M64WV,PrimeSource Inc,DAAC5,TIRHQ-23-SZTJ4O,10/22/2023,2023,Mid-Atlantic,GA,Labor-Hour,D301 IT Facility Mgmt,541330,No,202684.89,85.9,5.3,2.88,Low,Primesource INC
+BM2ZEIO7O,ForgeTech Systems,T9OTG,TIRHQ-23-VNZ8DR,12/23/2023,2023,Mid-Atlantic,GA,Cost-Plus,R499 Prof Services,541511,No,1522029.35,78.3,5.4,3.59,Medium,Forgetech Systems
+JS7HVHVFX,Yardley Inc,0WVKZ,TIRHQ-23-VQQ8D9,5/6/2024,2023,Northeast,MO,Firm-Fixed Price,7030 Info Tech HW,518210,No,408088.53,74.6,8.2,3.29,Medium,Yardley INC
+XB74BSOZI,MaplePark Corporation,AUX8P,TIRHQ-23-VZU6MG,12/2/2023,2023,Northeast,MD,Time & Materials,D399 IT Services,541512,No,571917.72,70,19,3.04,Medium,Maplepark CORP
+RELFNCVUM,Greenfield Group,LPKY5,TIRHQ-23-X8ZS36,4/29/2024,2023,Southwest,CA,Cost-Plus,7030 Info Tech HW,541519,No,1181319.19,65.5,9.5,3,High,Greenfield Group
+0WAH7DWFR,Zircon Inc,6HWBW,TIRHQ-23-XRXNBF,10/11/2023,2023,Southwest,CA,Fixed-Price with EPA,R499 Prof Services,518210,Yes,2188021.34,75.4,11.2,3.15,Medium,Zircon INC
+2GGZ97W7M,HIGHPOINT INC,6VTHI,TIRHQ-23-Y5GPJ2,4/29/2024,2023,Midwest,MD,Cost-Plus,D399 IT Services,541611,No,2153259.23,47.4,30.2,2.62,High,Highpoint INC
+IJ3GVGQ8S,EdgeWorks  LLC,T8FRF,TIRNO-21-3B977H,9/26/2022,2021,West,IL,Time & Materials,R499 Prof Services,236220,No,383433.12,81.9,11.9,3.5,Medium,Edgeworks LLC
+BGEEG13KX,Xenon Group,UTRO8,TIRNO-21-3IDN6B,6/30/2022,2021,Midwest,UT,Labor-Hour,D399 IT Services,518210,Yes,328802.8,82.7,9.6,3.27,Low,Xenon Group
+A106MSL89,UrbanCore Corp,F0QPW,TIRNO-21-6HKJ2F,2/5/2022,2021,Midwest,IL,Labor-Hour,7030 Info Tech HW,541511,No,798781.66,80.5,9,3.22,Medium,Urbancore CORP
+S2UNY8VEP,Summit Corporation,PI2YQ,TIRNO-21-7Y685H,2/8/2022,2021,Southwest,IL,Cost-Plus,D301 IT Facility Mgmt,541512,No,4551915.22,50.6,35.7,2.43,High,Summit CORP
+OO6EFJU9W,UrbanCore Ltd,HVKET,TIRNO-21-888XZJ,5/29/2022,2021,Midwest,MO,Cost-Plus,D399 IT Services,541511,No,716935.45,72,8,3.05,Medium,Urbancore LTD
+H0EQG80L2,Kingsley Corporation,3F7L0,TIRNO-21-8KBWGX,12/30/2021,2021,Southeast,VA,Fixed-Price with EPA,J070 Maintenance,541519,No,463101.44,90,6.1,3.53,Low,Kingsley CORP
+MNOPWYZAS,Beacon Inc,ODCCZ,TIRNO-21-92J4ZB,12/1/2021,2021,Mid-Atlantic,CA,Time & Materials,J070 Maintenance,541511,Yes,587320.89,81.3,7.2,3.29,Medium,Beacon INC
+RYLATX7EM,DATABRIDGE CORP,F2HSA,TIRNO-21-BQFIH5,9/7/2022,2021,Northeast,NY,Cost-Plus,D399 IT Services,518210,No,1187309.29,79.7,14.1,3.18,Medium,Databridge CORP
+OE129G5XP,ClearPath Incorporated,6ELEP,TIRNO-21-BVPS69,5/28/2022,2021,Midwest,CA,Labor-Hour,D399 IT Services,518210,No,584535.24,84,0.2,3.19,Low,Clearpath INC
+A106MSL89,UrbanCore Corp,F0QPW,TIRNO-21-BX7L3O,8/4/2022,2021,Mid-Atlantic,TX,Firm-Fixed Price,D301 IT Facility Mgmt,541519,Yes,476331.81,81,8.7,3.49,Medium,Urbancore CORP
+QTWFKK19Y,MaplePark LLC,JL4CT,TIRNO-21-DC5E6Z,1/6/2022,2021,Southwest,NY,Cost-Plus,J070 Maintenance,541611,No,2435912.9,63.6,25.3,2.61,High,Maplepark LLC
+2TN9QJ3U3,CYPRESS  INC,LQ2QY,TIRNO-21-EJV2WK,7/22/2022,2021,Southwest,MD,Fixed-Price with EPA,D301 IT Facility Mgmt,518210,No,435447.1,91.2,9,3.23,Low,Cypress INC
+0WAH7DWFR,Zircon Inc,6HWBW,TIRNO-21-G445MB,1/24/2022,2021,West,MD,Firm-Fixed Price,D399 IT Services,541511,Yes,495004.71,85.5,8.6,3.79,Low,Zircon INC
+BM2ZEIO7O,Forgetech Systems,T9OTG,TIRNO-21-J9B58H,9/19/2022,2021,Northeast,CA,Labor-Hour,7030 Info Tech HW,541611,Yes,232488.84,89.7,7.4,3.58,Low,Forgetech Systems
+NQ2YAO6VY,XENON  INCORPORATED,OL74N,TIRNO-21-MLAEJN,11/9/2021,2021,Southwest,PA,Fixed-Price with EPA,R499 Prof Services,541611,No,409438.97,77.4,5.1,3.43,Medium,Xenon Incorporated
+NWHB6E5KA,IronGate Incorporated,6EH5J,TIRNO-21-OU72RZ,3/26/2022,2021,Mid-Atlantic,NY,Time & Materials,D301 IT Facility Mgmt,541511,No,439535.87,69.2,26,2.95,High,Irongate INC
+D1TL6QNFE,Silverline LTD.,L1IJG,TIRNO-21-PL2DYC,3/31/2022,2021,Southeast,NY,Time & Materials,7030 Info Tech HW,517111,No,163987.84,69.2,12.1,2.84,High,Silverline LTD
+L4YLJPZJ7,Oakridge Corporation,VBFV3,TIRNO-21-QKCPGM,6/16/2022,2021,Midwest,MO,Cost-Plus,D399 IT Services,541512,Yes,1842658.49,68.6,13.6,3.4,High,Oakridge CORP
+U2N0OWZ6R,Nexus Group,UEELX,TIRNO-21-UBGA0T,10/18/2021,2021,Southeast,TX,Firm-Fixed Price,Y1DA Construction,541512,No,260564.92,86.9,0,3.51,Low,Nexus Group
+0WAH7DWFR,Zircon Inc,6HWBW,TIRNO-21-VGGBQI,6/14/2022,2021,Northeast,TX,Labor-Hour,R499 Prof Services,541611,Yes,284513.21,84.7,6,3.66,Low,Zircon INC
+RELFNCVUM,Greenfield Group,LPKY5,TIRNO-21-VIF7DF,11/12/2021,2021,Northeast,UT,Fixed-Price with EPA,Y1DA Construction,517111,Yes,1318260.51,93.6,6.7,3.64,Low,Greenfield Group
+IJ3GVGQ8S,EDGEWORKS LLC,T8FRF,TIRNO-21-WM3BCM,2/7/2022,2021,Southwest,MD,Cost-Plus,Y1DA Construction,518210,Yes,1091816.3,85.6,23.7,3.11,Medium,Edgeworks LLC
+Q13SFNDPM,Umbra Ltd,V3Y7U,TIRNO-21-X03U9M,5/7/2022,2021,Midwest,CA,Time & Materials,7030 Info Tech HW,541330,Yes,393090.8,71.9,19.5,2.93,Medium,Umbra LTD
+Q13SFNDPM,Umbra Ltd,V3Y7U,TIRNO-21-XHO4K6,7/20/2022,2021,Northeast,TX,Cost-Plus,J070 Maintenance,517111,Yes,803725.45,80.7,14.9,3.16,Medium,Umbra LTD
+EWI4VJEIF,Vector Ltd,XZWDJ,TIRNO-21-ZULI7U,4/27/2022,2021,Mid-Atlantic,IL,Cost-Plus,D399 IT Services,518210,No,766352.22,73,14.2,2.96,Medium,Vector LTD
+4AV3V81IJ,Oakridge LLC,JXXUP,TIRNO-22-0SPSJK,11/25/2022,2022,Southwest,VA,Firm-Fixed Price,D301 IT Facility Mgmt,541330,No,258504.37,91.3,9.6,3.34,Low,Oakridge LLC
+NWHB6E5KA,IronGate Incorporated,6EH5J,TIRNO-22-0W0D61,6/24/2023,2022,Midwest,VA,Labor-Hour,7030 Info Tech HW,541512,No,417330.88,75.5,7.6,3.17,Medium,Irongate INC
+5A9RA69DX,BlueSky Corporation,9HROT,TIRNO-22-7P6NJV,10/24/2022,2022,Mid-Atlantic,UT,Cost-Plus,Y1DA Construction,541511,No,1434312.52,59.2,8.3,3.19,High,Bluesky CORP
+Q13SFNDPM,Umbra Ltd,V3Y7U,TIRNO-22-A75ZQ2,4/19/2023,2022,Southwest,NY,Firm-Fixed Price,R499 Prof Services,236220,No,1018746.64,91.5,0,3.09,Low,Umbra LTD
+JF2RPF8W0,ZIRCON CORP,XQ25K,TIRNO-22-ATVVUX,8/30/2023,2022,West,MO,Cost-Plus,R499 Prof Services,541519,Yes,920725.65,73.6,10.6,3.25,Medium,Zircon CORP
+J6EW0F8I1,Vanguard Ltd,2CSIP,TIRNO-22-FO9RT7,9/22/2023,2022,Mid-Atlantic,TX,Labor-Hour,R499 Prof Services,541512,No,82289.43,88.4,0,2.96,Low,Vanguard LTD
+MNOPWYZAS,Beacon Inc,ODCCZ,TIRNO-22-FREH0R,9/7/2023,2022,Southwest,MO,Firm-Fixed Price,7030 Info Tech HW,541511,Yes,241304.91,82.8,13.9,3.15,Low,Beacon INC
+ECFAHR6VF,PrimeSource LLC,THXTY,TIRNO-22-FZVEP0,8/23/2023,2022,Midwest,IL,Labor-Hour,7030 Info Tech HW,541519,Yes,654784.19,85.3,0.6,3.11,Low,Primesource LLC
+A106MSL89,UrbanCore Corp,F0QPW,TIRNO-22-GV1USJ,5/7/2023,2022,West,PA,Labor-Hour,Y1DA Construction,541512,Yes,544726.58,81.4,0.8,3.56,Medium,Urbancore CORP
+ZI49AHV5O,Nexus Systems,GADYZ,TIRNO-22-HUP65R,3/30/2023,2022,Southwest,PA,Firm-Fixed Price,D399 IT Services,541512,No,443206.8,85.6,0,3.52,Low,Nexus Systems
+Q13SFNDPM,Umbra Ltd,V3Y7U,TIRNO-22-J5J4JX,5/19/2023,2022,Southwest,VA,Time & Materials,D399 IT Services,541512,Yes,190312.5,72.8,25.3,3.34,High,Umbra LTD
+YY8BJJ2HO,Databridge Corp,FLJKW,TIRNO-22-JQGFQ5,11/11/2022,2022,Northeast,TX,Cost-Plus,D399 IT Services,541519,No,1048111.72,60.8,11.1,3.44,High,Databridge CORP
+02ZJ2G49Y,Falcon Corporation,91JC5,TIRNO-22-SX4YQC,3/20/2023,2022,Southeast,IL,Time & Materials,R499 Prof Services,541512,No,584484.05,70.5,13.7,2.95,Medium,Falcon CORP
+RELFNCVUM,GREENFIELD  GROUP,LPKY5,TIRNO-22-TT93PD,3/14/2023,2022,Northeast,MO,Time & Materials,D399 IT Services,541519,No,485539.55,59.2,19.1,3.69,High,Greenfield Group
+VU7MZN3VV,Harbor Incorporated,6YT7W,TIRNO-22-VBEOP0,2/13/2023,2022,Northeast,PA,Labor-Hour,R499 Prof Services,236220,Yes,170341.55,94.4,7.6,3.67,Low,Harbor INC
+XB74BSOZI,MaplePark Corporation,AUX8P,TIRNO-22-YK84CU,11/23/2022,2022,Southeast,MD,Fixed-Price with EPA,J070 Maintenance,517111,No,882479.48,99,5.9,3.56,Low,Maplepark CORP
+BRR9HW9O6,PINNACLE CORPORATION,FY3IP,TIRNO-23-0XL0RS,3/20/2024,2023,Midwest,TX,Firm-Fixed Price,Y1DA Construction,236220,No,945611.31,83.4,0,3.5,Low,Pinnacle Corporation
+4AV3V81IJ,Oakridge LLC,JXXUP,TIRNO-23-2L4IV6,12/25/2023,2023,Southwest,MD,Fixed-Price with EPA,D399 IT Services,541519,No,1066556.5,76.7,8.1,2.88,Medium,Oakridge LLC
+UXHJWWXM1,Zircon Corporation,08VTZ,TIRNO-23-5IRI6V,9/7/2024,2023,West,TX,Fixed-Price with EPA,R499 Prof Services,517111,No,494054.01,94.9,2.5,3.13,Low,Zircon CORP
+BRR9HW9O6,Pinnacle Corporation,FY3IP,TIRNO-23-60FBPD,6/24/2024,2023,Midwest,PA,Labor-Hour,D399 IT Services,541519,No,727712.48,89.6,0.6,3.54,Low,Pinnacle CORP
+U2N0OWZ6R,Nexus Group,UEELX,TIRNO-23-7HJXSM,10/29/2023,2023,West,GA,Time & Materials,D399 IT Services,541611,No,478855.24,70.6,11.1,3.19,Medium,Nexus Group
+J6EW0F8I1,Vanguard Ltd,2CSIP,TIRNO-23-81RRW3,5/21/2024,2023,West,MO,Fixed-Price with EPA,J070 Maintenance,518210,Yes,340223.83,92.9,12.9,2.82,Low,Vanguard LTD
+36RYXL9LT,Zircon Inc,78K62,TIRNO-23-8KPVII,12/10/2023,2023,Southeast,GA,Fixed-Price with EPA,D301 IT Facility Mgmt,517111,Yes,472662.1,78.2,3.3,3.85,Medium,Zircon INC
+RYLATX7EM,DataBridge Corp,F2HSA,TIRNO-23-8O5J8H,11/25/2023,2023,West,IL,Labor-Hour,J070 Maintenance,517111,No,495454.28,92.5,6,3.1,Low,Databridge CORP
+ZI49AHV5O,Nexus Systems,GADYZ,TIRNO-23-8WAVRJ,5/26/2024,2023,Southwest,IL,Fixed-Price with EPA,D399 IT Services,541330,No,354157.03,77,10.7,2.87,Medium,Nexus Systems
+RXR7RW4CI,Insight Ltd,QY1IB,TIRNO-23-AD400O,8/15/2024,2023,Southwest,NY,Labor-Hour,Y1DA Construction,517111,Yes,146197.6,79.8,0,3.27,Medium,Insight LTD
+5999ZMWZT,Keystone Corp,OF9F0,TIRNO-23-I59U0D,3/26/2024,2023,Midwest,GA,Fixed-Price with EPA,D301 IT Facility Mgmt,541611,Yes,981513.69,81.5,3,3.17,Medium,Keystone CORP
+WPGBTCLGV,DataBridge Incorporated,Z6TM2,TIRNO-23-JNBVJ3,6/1/2024,2023,Southwest,CA,Cost-Plus,7030 Info Tech HW,541611,No,1258991.16,73.2,16.7,3.44,Medium,Databridge INC
+Q13SFNDPM,Umbra  Ltd,V3Y7U,TIRNO-23-KCKSX8,1/4/2024,2023,Northeast,VA,Cost-Plus,D399 IT Services,541519,No,858858.92,67.3,18.1,3,High,Umbra LTD
+WPGBTCLGV,DataBridge Incorporated,Z6TM2,TIRNO-23-M3MUM8,3/20/2024,2023,Mid-Atlantic,CA,Time & Materials,Y1DA Construction,541330,Yes,259053.23,85.3,19.3,3.34,Medium,Databridge INC
+DCCEIGKHY,Pinnacle LLC,55V0N,TIRNO-23-MNY4YZ,7/10/2024,2023,West,VA,Time & Materials,D399 IT Services,518210,Yes,222345.88,62.4,18,2.99,High,Pinnacle LLC
+0WAH7DWFR,ZIRCON INC,6HWBW,TIRNO-23-NME0Z4,2/29/2024,2023,Mid-Atlantic,GA,Time & Materials,D399 IT Services,541519,No,717461.16,70.3,12.8,3.12,Medium,Zircon INC
+NWHB6E5KA,IronGate Incorporated,6EH5J,TIRNO-23-PFU5LD,1/16/2024,2023,Midwest,VA,Labor-Hour,D301 IT Facility Mgmt,541611,No,1231692.69,76.2,2,2.96,Medium,Irongate INC
+6PSDTQX1E,NorthStar Group,UG0O0,TIRNO-23-RAWD86,12/26/2023,2023,Mid-Atlantic,IL,Firm-Fixed Price,R499 Prof Services,541611,Yes,1460771.7,88,7.3,3.67,Low,Northstar Group
+H0EQG80L2,Kingsley Corporation,3F7L0,TIRNO-23-RYIOAI,8/27/2024,2023,Midwest,NY,Labor-Hour,Y1DA Construction,517111,No,621414.2,95.3,0.4,3.51,Low,Kingsley CORP
+VU7MZN3VV,HARBOR INCORPORATED,6YT7W,TIRNO-23-S8PHEI,3/6/2024,2023,West,MD,Fixed-Price with EPA,7030 Info Tech HW,518210,No,328827.2,83.2,9.1,3.74,Low,Harbor Incorporated
+BRR9HW9O6,Pinnacle Corporation,FY3IP,TIRNO-23-ULG7RC,4/1/2024,2023,West,TX,Labor-Hour,Y1DA Construction,541611,No,644349.14,83.5,1.9,2.96,Low,Pinnacle CORP
+L4YLJPZJ7,OAKRIDGE CORPORATION,VBFV3,TIRNO-23-WUXCQQ,1/26/2024,2023,Southwest,PA,Labor-Hour,Y1DA Construction,541512,No,440101.39,99,2.9,3.96,Low,Oakridge Corporation
+MNOPWYZAS,BEACON  INC,ODCCZ,TIRNO-23-YO15MP,8/27/2024,2023,Southeast,CA,Fixed-Price with EPA,R499 Prof Services,541512,No,690274.1,87.4,6.7,3.5,Low,Beacon INC
+ZI49AHV5O,Nexus Systems,GADYZ,TIRNO-23-YPDGSI,1/24/2024,2023,Midwest,CA,Firm-Fixed Price,D399 IT Services,541611,Yes,275058.05,77.3,7.6,3.33,Medium,Nexus Systems
+33OMBD4K3,UrbanCore Inc,67PT6,TIRNO-23-ZYH394,8/6/2024,2023,Midwest,UT,Time & Materials,D399 IT Services,236220,No,169413.87,64.9,13.8,3.04,High,Urbancore INC
+2HPD7E20N,Xenon LTD.,PVJE4,TIRSE-21-16HXTG,8/17/2022,2021,West,NY,Fixed-Price with EPA,Y1DA Construction,541330,No,2290343.45,63.8,18.1,2.89,High,Xenon LTD
+YHHFPU1JA,Lumina Group,UHFGY,TIRSE-21-1ZM5VG,8/24/2022,2021,West,TX,Firm-Fixed Price,J070 Maintenance,541611,No,340480.32,83.6,0,2.93,Low,Lumina Group
+D1TL6QNFE,Silverline Ltd,L1IJG,TIRSE-21-2EY1UI,7/20/2022,2021,West,MO,Cost-Plus,D301 IT Facility Mgmt,518210,No,1194090.47,65,16.3,3.03,High,Silverline LTD
+L4YLJPZJ7,Oakridge Corporation,VBFV3,TIRSE-21-2I6CBW,7/5/2022,2021,Southwest,TX,Fixed-Price with EPA,D399 IT Services,517111,Yes,1073498.39,81.9,5.8,3.25,Medium,Oakridge CORP
+IJ3GVGQ8S,EdgeWorks LLC,T8FRF,TIRSE-21-3A4Q06,4/1/2022,2021,Northeast,GA,Time & Materials,7030 Info Tech HW,541519,Yes,693334.84,79,21.9,3.38,Medium,Edgeworks LLC
+JS7HVHVFX,Yardley Inc,0WVKZ,TIRSE-21-45O7WW,11/22/2021,2021,Southwest,UT,Time & Materials,D301 IT Facility Mgmt,541512,No,719916.52,69.4,17.2,2.81,High,Yardley INC
+IJ3GVGQ8S,EdgeWorks LLC,T8FRF,TIRSE-21-6W2E6T,11/28/2021,2021,West,PA,Firm-Fixed Price,Y1DA Construction,518210,Yes,264920.89,86,5.2,3.65,Low,Edgeworks LLC
+C3G3E1689,Evergreen Ltd,PH54F,TIRSE-21-7WWOFR,6/8/2022,2021,Southeast,MD,Labor-Hour,D399 IT Services,541511,No,373360.77,71.1,3,2.99,Medium,Evergreen LTD
+36RYXL9LT,ZIRCON INC,78K62,TIRSE-21-8B0G10,6/23/2022,2021,Midwest,GA,Firm-Fixed Price,Y1DA Construction,541330,Yes,295935.91,83.9,0.9,3.46,Low,Zircon INC
+VUE3FKSGS,DataBridge Corporation,W6C1V,TIRSE-21-9VIB87,10/9/2021,2021,Northeast,IL,Time & Materials,7030 Info Tech HW,541512,No,1194612.58,79.8,7.4,3.5,Medium,Databridge CORP
+JS7HVHVFX,YARDLEY INC,0WVKZ,TIRSE-21-BF2PUW,5/3/2022,2021,West,MO,Firm-Fixed Price,D301 IT Facility Mgmt,541611,No,672232.51,79.3,0,3.49,Medium,Yardley INC
+2HPD7E20N,Xenon Ltd,PVJE4,TIRSE-21-C3Q96T,8/25/2022,2021,Southeast,VA,Firm-Fixed Price,D301 IT Facility Mgmt,541611,No,636738.48,79.4,5.2,3.06,Medium,Xenon LTD
+JS7HVHVFX,Yardley Inc,0WVKZ,TIRSE-21-DASI43,8/29/2022,2021,Southeast,MO,Labor-Hour,J070 Maintenance,541512,Yes,1610081.38,92.3,0,3.51,Low,Yardley INC
+UXHJWWXM1,Zircon Corporation,08VTZ,TIRSE-21-FBGVOQ,3/21/2022,2021,Midwest,TX,Cost-Plus,7030 Info Tech HW,236220,No,3377072.84,54.5,31.1,2.75,High,Zircon CORP
+MNOPWYZAS,Beacon Inc,ODCCZ,TIRSE-21-GL2CH5,6/17/2022,2021,Southeast,IL,Fixed-Price with EPA,D399 IT Services,517111,No,2563808.47,66.6,25.9,2.81,High,Beacon INC
+XV144MTVF,Yellowfin Group,KLMUX,TIRSE-21-HEGJD7,9/1/2022,2021,Mid-Atlantic,MD,Fixed-Price with EPA,R499 Prof Services,518210,Yes,390278.54,77.1,0,3.88,Medium,Yellowfin Group
+0WAH7DWFR,Zircon Inc,6HWBW,TIRSE-21-HWTJCU,11/7/2021,2021,Mid-Atlantic,PA,Fixed-Price with EPA,Y1DA Construction,541511,Yes,466490.52,87.2,17.8,3.75,Medium,Zircon INC
+02ZJ2G49Y,Falcon Corporation,91JC5,TIRSE-21-I2I8DZ,12/18/2021,2021,Southeast,IL,Fixed-Price with EPA,Y1DA Construction,236220,No,1135826.33,88.2,3.9,3.44,Low,Falcon CORP
+0WAH7DWFR,Zircon Incorporated,6HWBW,TIRSE-21-J7SP3H,9/23/2022,2021,Midwest,GA,Labor-Hour,7030 Info Tech HW,541511,Yes,350800.83,86.8,4.4,3.39,Low,Zircon INC
+L4YLJPZJ7,Oakridge Corporation,VBFV3,TIRSE-21-Q5KC31,11/9/2021,2021,West,UT,Time & Materials,Y1DA Construction,236220,Yes,174900.68,75.2,19.3,3.12,Medium,Oakridge CORP
+JF2RPF8W0,Zircon Corp,XQ25K,TIRSE-21-RDYXNY,11/1/2021,2021,West,TX,Firm-Fixed Price,R499 Prof Services,518210,No,1805069.5,96.3,2.9,3.7,Low,Zircon CORP
+RS5TIAB4X,ClearPath Systems,B54CJ,TIRSE-21-RQW8F0,12/20/2021,2021,Southwest,MD,Cost-Plus,D301 IT Facility Mgmt,236220,No,1112612.14,71.3,20.7,2.72,Medium,Clearpath Systems
+VU7MZN3VV,Harbor  Incorporated,6YT7W,TIRSE-21-S0TR17,5/8/2022,2021,Northeast,NY,Time & Materials,Y1DA Construction,541330,No,439993.79,66.4,18.5,3.23,High,Harbor INC
+YHHFPU1JA,Lumina Group,UHFGY,TIRSE-21-TR2CDU,8/27/2022,2021,Mid-Atlantic,PA,Labor-Hour,R499 Prof Services,541511,No,212115.08,91.4,4.1,3.46,Low,Lumina Group
+L4YLJPZJ7,Oakridge Corporation,VBFV3,TIRSE-21-V5PD64,9/15/2022,2021,Mid-Atlantic,MO,Fixed-Price with EPA,R499 Prof Services,541611,No,2461560.6,72.7,15.5,3.02,Medium,Oakridge CORP
+33OMBD4K3,UrbanCore Inc,67PT6,TIRSE-21-V7M3YW,6/1/2022,2021,Northeast,UT,Cost-Plus,R499 Prof Services,541519,No,643719.22,80.4,16.1,3.25,Medium,Urbancore INC
+ZCW8W5YFV,Westward Corporation,OFQ8A,TIRSE-21-VO77QP,6/9/2022,2021,Midwest,GA,Time & Materials,R499 Prof Services,517111,No,247683.87,81.3,17.2,3.32,Medium,Westward CORP
+ECFAHR6VF,PrimeSource LLC,THXTY,TIRSE-21-W3E2PG,6/7/2022,2021,West,IL,Labor-Hour,D399 IT Services,518210,Yes,581260.22,83.5,4.6,3.41,Low,Primesource LLC
+HNLZRG5GH,Evergreen Ltd,TL9XU,TIRSE-21-YQMJSF,10/24/2021,2021,Midwest,GA,Cost-Plus,D301 IT Facility Mgmt,541330,No,5324953.46,54.3,25.2,2.56,High,Evergreen LTD
+2GGZ97W7M,HIGHPOINT INC,6VTHI,TIRSE-21-YZES6A,6/29/2022,2021,West,VA,Cost-Plus,D399 IT Services,236220,Yes,294240.55,69.4,12.9,3.18,High,Highpoint INC
+36RYXL9LT,Zircon Inc,78K62,TIRSE-22-0FGV3H,4/2/2023,2022,Midwest,IL,Labor-Hour,R499 Prof Services,541511,Yes,306385.23,86.1,0,3.81,Low,Zircon INC
+WPGBTCLGV,DataBridge Incorporated,Z6TM2,TIRSE-22-0JOFZU,6/27/2023,2022,West,NY,Cost-Plus,J070 Maintenance,541511,Yes,3855407.61,63.1,25.7,2.88,High,Databridge INC
+EIB2P89AC,Juniper Systems,CWSG2,TIRSE-22-3ZQNES,10/22/2022,2022,West,IL,Firm-Fixed Price,R499 Prof Services,541511,No,103243.56,86.8,2.6,3.7,Low,Juniper Systems
+DCCEIGKHY,PINNACLE  LLC,55V0N,TIRSE-22-4OF212,5/18/2023,2022,Southeast,NY,Firm-Fixed Price,R499 Prof Services,517111,No,151277.17,82.7,2.4,3.07,Low,Pinnacle LLC
+UXHJWWXM1,Zircon Corporation,08VTZ,TIRSE-22-5FY3U1,3/16/2023,2022,Northeast,MO,Cost-Plus,J070 Maintenance,541330,Yes,1056887.81,66.6,4.4,2.71,High,Zircon CORP
+3CI14WFLT,Riverton LLC,PR69P,TIRSE-22-60NVZU,10/15/2022,2022,Mid-Atlantic,UT,Fixed-Price with EPA,Y1DA Construction,541511,Yes,702621.9,76.4,3.6,3.29,Medium,Riverton LLC
+VUE3FKSGS,DataBridge Corporation,W6C1V,TIRSE-22-69EFC7,2/4/2023,2022,Southeast,GA,Firm-Fixed Price,7030 Info Tech HW,541511,No,567047.37,85.5,18.1,3.15,Medium,Databridge CORP
+2HPD7E20N,Xenon Ltd,PVJE4,TIRSE-22-6UTGUL,10/3/2022,2022,Midwest,GA,Time & Materials,R499 Prof Services,518210,Yes,1100282.67,86.2,14.7,3.86,Low,Xenon LTD
+ZI49AHV5O,Nexus Systems,GADYZ,TIRSE-22-79Q5FI,8/21/2023,2022,Southwest,MD,Cost-Plus,D301 IT Facility Mgmt,236220,Yes,966782.61,69.3,9.7,3.24,High,Nexus Systems
+EWI4VJEIF,Vector Ltd,XZWDJ,TIRSE-22-81B4TN,5/3/2023,2022,Mid-Atlantic,NY,Fixed-Price with EPA,Y1DA Construction,541611,No,2323857.67,66.1,16.2,3.39,High,Vector LTD
+2TN9QJ3U3,Cypress Inc,LQ2QY,TIRSE-22-9V5JJG,3/19/2023,2022,Southeast,VA,Time & Materials,J070 Maintenance,541611,No,67262.91,73,20.2,3.09,Medium,Cypress INC
+XXN79PBKC,Evergreen Corporation,8T1RL,TIRSE-22-AV9KTO,4/7/2023,2022,Mid-Atlantic,PA,Time & Materials,7030 Info Tech HW,518210,Yes,538224.96,73.3,17,3.59,Medium,Evergreen CORP
+JS7HVHVFX,Yardley Inc,0WVKZ,TIRSE-22-B7GLOE,12/20/2022,2022,Southeast,CA,Time & Materials,Y1DA Construction,541330,No,184214.4,71,12.2,3.49,Medium,Yardley INC
+J6EW0F8I1,Vanguard Ltd,2CSIP,TIRSE-22-BSX94W,1/9/2023,2022,Southwest,MO,Labor-Hour,7030 Info Tech HW,236220,No,538913.99,79.2,0,3.41,Medium,Vanguard LTD
+RELFNCVUM,Greenfield Group,LPKY5,TIRSE-22-F4U5ZE,5/12/2023,2022,Midwest,IL,Cost-Plus,Y1DA Construction,541611,No,2252995.36,54.1,25.4,2.61,High,Greenfield Group
+J6EW0F8I1,Vanguard Ltd,2CSIP,TIRSE-22-HB9RNN,2/10/2023,2022,Northeast,MD,Fixed-Price with EPA,J070 Maintenance,517111,No,4482519.3,71.1,4.4,3.6,Medium,Vanguard LTD
+RYLATX7EM,DataBridge Corp,F2HSA,TIRSE-22-HW10E1,8/2/2023,2022,Southeast,MD,Time & Materials,D399 IT Services,518210,No,194786.58,62.9,17.9,3.18,High,Databridge CORP
+U6A69TVTF,Riverton Corporation,73SLA,TIRSE-22-LCFHS3,12/26/2022,2022,Midwest,GA,Cost-Plus,J070 Maintenance,517111,Yes,760095.33,66.7,15.1,3.02,High,Riverton CORP
+XB74BSOZI,MAPLEPARK CORPORATION,AUX8P,TIRSE-22-LHXTUP,12/12/2022,2022,Southwest,GA,Labor-Hour,J070 Maintenance,541512,Yes,76488.56,90.3,1.2,3.48,Low,Maplepark Corporation
+S2UNY8VEP,Summit Corporation,PI2YQ,TIRSE-22-NFBNQ8,1/9/2023,2022,Midwest,TX,Cost-Plus,Y1DA Construction,541512,No,340696.65,69.1,8.8,3.15,High,Summit CORP
+33OMBD4K3,UrbanCore Inc,67PT6,TIRSE-22-NZO1RV,9/5/2023,2022,Mid-Atlantic,MD,Firm-Fixed Price,7030 Info Tech HW,541611,Yes,299235.89,86.7,5.3,3.59,Low,Urbancore INC
+BGEEG13KX,Xenon Group,UTRO8,TIRSE-22-PEUA8X,12/3/2022,2022,Northeast,NY,Time & Materials,D399 IT Services,541611,No,620974.46,67.2,23.6,2.71,High,Xenon Group
+5A9RA69DX,BlueSky Corporation,9HROT,TIRSE-22-PQKIW7,3/27/2023,2022,Southwest,VA,Fixed-Price with EPA,R499 Prof Services,236220,No,1182799.26,89.4,5.8,2.92,Low,Bluesky CORP
+C3G3E1689,Evergreen Ltd,PH54F,TIRSE-22-Q3DLS7,11/28/2022,2022,Mid-Atlantic,PA,Fixed-Price with EPA,Y1DA Construction,541611,Yes,234347.97,93.1,12,3.71,Low,Evergreen LTD
+DCCEIGKHY,PINNACLE LLC,55V0N,TIRSE-22-RM6R5A,10/28/2022,2022,Mid-Atlantic,IL,Firm-Fixed Price,R499 Prof Services,518210,No,316597.48,77.1,5.6,3.72,Medium,Pinnacle LLC
+0WAH7DWFR,Zircon Inc,6HWBW,TIRSE-22-RTG7X4,8/20/2023,2022,West,CA,Cost-Plus,D399 IT Services,541512,No,905302.29,74.8,13,2.55,Medium,Zircon INC
+36RYXL9LT,Zircon  Inc,78K62,TIRSE-22-SUVIFH,1/17/2023,2022,West,UT,Labor-Hour,D301 IT Facility Mgmt,518210,No,512869.53,77,3,3.5,Medium,Zircon INC
+U2N0OWZ6R,NEXUS GROUP,UEELX,TIRSE-22-T33I6I,1/7/2023,2022,Mid-Atlantic,UT,Cost-Plus,D399 IT Services,541519,No,1145413.86,63.7,20.8,2.78,High,Nexus Group
+ZI49AHV5O,Nexus Systems,GADYZ,TIRSE-22-WK3O9I,1/21/2023,2022,Southeast,GA,Firm-Fixed Price,R499 Prof Services,541511,No,444977.93,84.6,0,3.43,Low,Nexus Systems
+33OMBD4K3,UrbanCore Inc,67PT6,TIRSE-22-WX0DBO,1/5/2023,2022,Southwest,NY,Cost-Plus,D399 IT Services,541512,No,355911.7,77.7,14.4,3.03,Medium,Urbancore INC
+ELETDH6GP,Harbor LLC,BIRMA,TIRSE-22-XRDH5L,2/22/2023,2022,Northeast,MD,Firm-Fixed Price,7030 Info Tech HW,541611,Yes,132813.32,79.6,9,3.05,Medium,Harbor LLC
+3CI14WFLT,Riverton LLC,PR69P,TIRSE-22-XZ842B,3/14/2023,2022,West,GA,Cost-Plus,R499 Prof Services,541512,No,1564723.01,65,3.8,3.26,High,Riverton LLC
+J6EW0F8I1,Vanguard Ltd,2CSIP,TIRSE-22-Y249EV,12/5/2022,2022,Mid-Atlantic,VA,Firm-Fixed Price,Y1DA Construction,541519,No,1422238.96,91,0,3.79,Low,Vanguard LTD
+S2UNY8VEP,Summit Corporation,PI2YQ,TIRSE-22-Y5AVJ1,5/31/2023,2022,Midwest,VA,Cost-Plus,J070 Maintenance,236220,No,939588.46,84.6,9.3,3.24,Low,Summit CORP
+RS5TIAB4X,ClearPath Systems,B54CJ,TIRSE-23-2TVEPT,12/24/2023,2023,Midwest,UT,Labor-Hour,Y1DA Construction,541511,Yes,39670.38,96.4,6.9,3.75,Low,Clearpath Systems
+RYLATX7EM,DATABRIDGE  CORP,F2HSA,TIRSE-23-4O3AFN,10/7/2023,2023,West,CA,Time & Materials,D399 IT Services,541330,Yes,171394.24,77.8,8.9,3.03,Medium,Databridge CORP
+BRR9HW9O6,Pinnacle Corporation,FY3IP,TIRSE-23-57Z6FW,11/6/2023,2023,Midwest,PA,Fixed-Price with EPA,D301 IT Facility Mgmt,517111,No,1562665.03,87.8,1.8,3.28,Low,Pinnacle CORP
+PUSITIJHQ,MaplePark Systems,7XOGZ,TIRSE-23-64TUET,10/18/2023,2023,Northeast,IL,Fixed-Price with EPA,D301 IT Facility Mgmt,541511,No,1087613.47,83,13.1,3.45,Low,Maplepark Systems
+VUE3FKSGS,DataBridge Corporation,W6C1V,TIRSE-23-6RB6C0,4/7/2024,2023,Northeast,UT,Firm-Fixed Price,D399 IT Services,541330,Yes,432863.17,80.3,8.5,3.46,Medium,Databridge CORP
+MNOPWYZAS,Beacon Inc,ODCCZ,TIRSE-23-8TU4W4,10/22/2023,2023,Mid-Atlantic,MD,Labor-Hour,7030 Info Tech HW,517111,Yes,441419.02,92.8,0.8,3.37,Low,Beacon INC
+4AV3V81IJ,Oakridge LLC,JXXUP,TIRSE-23-AYAPFS,7/6/2024,2023,Southwest,CA,Fixed-Price with EPA,D301 IT Facility Mgmt,541511,No,588796.76,86.9,8.2,3.18,Low,Oakridge LLC
+E8H70VTYK,MONARCH GROUP,D3MTT,TIRSE-23-BFOG0K,11/25/2023,2023,Southwest,TX,Fixed-Price with EPA,R499 Prof Services,518210,Yes,970957.75,89.6,7.3,3.39,Low,Monarch Group
+MN1A4TQLM,Quartz Inc,JYAWL,TIRSE-23-CREL8D,4/19/2024,2023,West,IL,Cost-Plus,D301 IT Facility Mgmt,541511,No,2404583.9,61,28,2.61,High,Quartz INC
+XRGA9UCOB,Kingsley Inc,19DBB,TIRSE-23-EBWL4X,6/14/2024,2023,Northeast,MO,Labor-Hour,Y1DA Construction,517111,No,577388.36,93.7,0,3.47,Low,Kingsley INC
+E8H70VTYK,Monarch Group,D3MTT,TIRSE-23-EG9HPZ,5/14/2024,2023,Midwest,MO,Cost-Plus,Y1DA Construction,541512,No,275312.23,65.6,24.9,3.03,High,Monarch Group
+BRR9HW9O6,Pinnacle Corporation,FY3IP,TIRSE-23-HDSLSC,10/15/2023,2023,Midwest,NY,Labor-Hour,R499 Prof Services,541512,Yes,322565.37,81.2,5.1,3.68,Medium,Pinnacle CORP
+A106MSL89,UrbanCore Corp,F0QPW,TIRSE-23-L46B1E,5/28/2024,2023,West,GA,Firm-Fixed Price,D301 IT Facility Mgmt,517111,No,166950.25,74.4,5.1,3.42,Medium,Urbancore CORP
+MNOPWYZAS,Beacon Inc,ODCCZ,TIRSE-23-LPD6ML,8/31/2024,2023,Northeast,MO,Cost-Plus,Y1DA Construction,541512,No,1318796.43,77.3,8.6,3.5,Medium,Beacon INC
+NQ2YAO6VY,XENON INCORPORATED,OL74N,TIRSE-23-QU18ET,10/12/2023,2023,Southwest,UT,Labor-Hour,Y1DA Construction,541330,No,377735.88,99,6.6,3.6,Low,Xenon Incorporated
+RELFNCVUM,GREENFIELD GROUP,LPKY5,TIRSE-23-TJ1JRF,12/24/2023,2023,Northeast,CA,Cost-Plus,R499 Prof Services,518210,Yes,660152.7,73.2,18.8,3.47,Medium,Greenfield Group
+H0EQG80L2,Kingsley Corporation,3F7L0,TIRSE-23-TRKF3J,5/29/2024,2023,Southwest,UT,Labor-Hour,7030 Info Tech HW,541330,Yes,394732.64,77.3,5.3,3.38,Medium,Kingsley CORP
+S2UNY8VEP,Summit Corporation,PI2YQ,TIRSE-23-TRVZ9P,3/15/2024,2023,Northeast,UT,Fixed-Price with EPA,7030 Info Tech HW,518210,Yes,7017260,66.5,20.6,2.62,High,Summit CORP
+BY8KXB4N9,Questline Corporation,LMEEW,TIRSE-23-X8RUZH,6/13/2024,2023,Mid-Atlantic,TX,Fixed-Price with EPA,7030 Info Tech HW,518210,Yes,1364949.18,91.6,14.7,3.23,Low,Questline CORP
+U2N0OWZ6R,Nexus Group,UEELX,TIRSE-23-ZVB55E,2/19/2024,2023,West,NY,Firm-Fixed Price,D301 IT Facility Mgmt,517111,Yes,575222.13,78.8,2.1,3.25,Medium,Nexus Group
